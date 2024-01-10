@@ -36,4 +36,4 @@ A la cadena de supermercados **Good Seed** le gustaría explorar si la ciencia d
 
 Para empezar a trabajar en la tarea, tendrás un conjunto de fotografías de personas que indican su edad.
 
-[Ver Proyecto]()
+[Ver Proyecto](https://github.com/juliocmi/DeepLearning/blob/main/ArtificialVision/DeepLearning_VisionArtificial.ipynb)
