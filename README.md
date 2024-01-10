@@ -22,3 +22,5 @@ Film Junky Union, una nueva comunidad vanguardista para los aficionados de las p
 - Escribir algunas reseñas y clasificarlas con todos los modelos.
 - Buscar las diferencias entre los resultados de las pruebas de los modelos en los dos puntos anteriores.
 - Mostrar hallazgos.
+
+[Ver Proyecto](https://github.com/juliocmi/DeepLearning/blob/main/NLP/NLP%20Project.ipynb)
