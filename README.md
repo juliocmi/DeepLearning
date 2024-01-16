@@ -34,6 +34,19 @@ A la cadena de supermercados **Good Seed** le gustaría explorar si la ciencia d
 - Los métodos de visión artificial se pueden usar para determinar la edad de una persona a partir de una foto.
 - La tarea, entonces, es construir y evaluar un modelo para verificar la edad de las personas.
 
-Para empezar a trabajar en la tarea, tendrás un conjunto de fotografías de personas que indican su edad.
+Para empezar a trabajar en la tarea, tendremos un conjunto de fotografías de personas que indican su edad.
 
 [Ver Proyecto](https://github.com/juliocmi/DeepLearning/blob/main/ArtificialVision/DeepLearning_VisionArtificial.ipynb)
+
+## Convolutional Neural Network - CNN
+
+Este es un caso de estudio en el que vamos a desarrollar una red convolucional sencilla para un dataset que tiene su origen en keras y que ha sido muy utilizado en los primeros pasos de todo gran científico de datos, me refiero a **MNIST**. Vamos a estudiar un poco sobre este set de datos y veremos qué conclusiones podemos destacar.
+
+Instrucciones del Proyecto:
+
+- Cargar el dataset
+- Explorar los datos
+- Entrenar modelo de red neuronal convolucional
+- Evaluar el modelo
+
+[Ver Proyecto](https://github.com/juliocmi/DeepLearning/blob/main/CNN/COVNET_MNIST.ipynb)
