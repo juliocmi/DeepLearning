@@ -8,6 +8,12 @@ Además, poseo habilidades sólidas en la preprocesamiento de datos, selección 
 
 Para demostrarte todo esto puedes ver mi portafolio de proyectos sobre deeplearning en las siguientes líneas.
 
+## LSTM (long short-term memory) Project
+
+Durante este proyecto vamos a explorar un dataset perteneciente a la página de reseñas de películas IMDB, el cuál nos servirá para realizar un análisis de sentimientos sobre las 80 mil reseñas de películas que se enuentran alojadas en el set de datos.
+
+[Ver Proyecto]()
+
 
 ## Film Junky Union - NLP Project
 Film Junky Union, una nueva comunidad vanguardista para los aficionados de las películas clásicas, está desarrollando un sistema para filtrar y categorizar reseñas de películas. Tu objetivo es entrenar un modelo para detectar las críticas negativas de forma automática. Para lograrlo, utilizarás un conjunto de datos de reseñas de películas de IMDB con etiquetado para construir un modelo que clasifique las reseñas como positivas y negativas. Este deberá alcanzar un valor F1 de al menos 0.85.
