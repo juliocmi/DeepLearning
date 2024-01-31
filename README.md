@@ -12,7 +12,7 @@ Para demostrarte todo esto puedes ver mi portafolio de proyectos sobre deeplearn
 
 Durante este proyecto vamos a explorar un dataset perteneciente a la página de reseñas de películas IMDB, el cuál nos servirá para realizar un análisis de sentimientos sobre las 80 mil reseñas de películas que se enuentran alojadas en el set de datos.
 
-[Ver Proyecto]()
+[Ver Proyecto](https://github.com/juliocmi/DeepLearning/blob/main/LSTM/LTSM_Model.ipynb)
 
 
 ## Film Junky Union - NLP Project
